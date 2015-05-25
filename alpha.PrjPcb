@@ -155,14 +155,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QARGOWIS
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alpha\Etherent.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for alpha\Etherent.CSV
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\..\..\..\..\Public\Documents\Altium\AD15\Library\*.*
 IncludeSubFolders=1
