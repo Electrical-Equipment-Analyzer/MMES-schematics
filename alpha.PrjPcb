@@ -207,108 +207,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EERCOVWV
 
 [Document11]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
-DocumentPath=CAMtastic4.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document15]
-DocumentPath=CAMtastic5.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
-DocumentPath=CAMtastic6.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,159 +223,141 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=PCB_Project1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for alpha\alpha_arr-RoundHoles.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for alpha\alpha_arr-RoundHoles.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for alpha\alpha_arr-RoundHoles.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for alpha\alpha_arr-RoundHoles.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for alpha\alpha_arr-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for alpha\alpha_arr-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for alpha\alpha_arr.DR1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for alpha\alpha_arr.DR2
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for alpha\alpha_arr.DR3
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for alpha\alpha_arr.DR4
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for alpha\alpha_arr.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for alpha\alpha_arr.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument13]
 DocumentPath=Project Outputs for alpha\alpha_arr.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for alpha\alpha_arr.G1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for alpha\alpha_arr.G2
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for alpha\alpha_arr.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for alpha\alpha_arr.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for alpha\alpha_arr.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for alpha\alpha_arr.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for alpha\alpha_arr.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for alpha\alpha_arr.GD2
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for alpha\alpha_arr.GD3
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for alpha\alpha_arr.GD4
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for alpha\alpha_arr.GD5
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for alpha\alpha_arr.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for alpha\alpha_arr.GG2
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for alpha\alpha_arr.GG3
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for alpha\alpha_arr.GG4
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for alpha\alpha_arr.GG5
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for alpha\alpha_arr.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for alpha\alpha_arr.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for alpha\alpha_arr.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for alpha\alpha_arr.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for alpha\alpha_arr.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for alpha\alpha_arr.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for alpha\alpha_arr.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=Project Outputs for alpha\alpha_arr.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for alpha\alpha_arr.REP
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for alpha\alpha_arr.RUL
 DItemRevisionGUID=
 
@@ -773,7 +653,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet M3035 MFP PCL6 Class Driver
+TargetPrinter=HP Color LaserJet CP4025/4525 ±m¦â
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -1203,7 +1083,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet M3035 MFP PCL6 Class Driver
+TargetPrinter=HP Color LaserJet CP4025/4525 ±m¦â
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
