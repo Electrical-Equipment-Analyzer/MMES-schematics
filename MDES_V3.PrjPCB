@@ -122,7 +122,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TBXOTOIU
 
 [Document6]
-DocumentPath=analog.SchDoc
+DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136,10 +136,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AOROOAFW
 
 [Document7]
-DocumentPath=USB Device.SchDoc
+DocumentPath=Analog Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,10 +153,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CUVVMXQC
+DocumentUniqueId=HJQDRPIM
 
 [Document8]
-DocumentPath=Direct Digital IO.SchDoc
+DocumentPath=Expansion connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,60 +170,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HJQDRPIM
 
 [Document9]
-DocumentPath=LCD.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=RS485.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=Speaker.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
 DocumentPath=schematics_library\Chip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,9 +187,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TKKPNQPI
 
-[Document13]
+[Document10]
 DocumentPath=schematics_library\Chip.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,9 +204,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RWDLWONK
 
-[Document14]
+[Document11]
 DocumentPath=schematics_library\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document12]
 DocumentPath=schematics_library\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document13]
 DocumentPath=schematics_library\Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,9 +255,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IGWKVWWG
 
-[Document17]
+[Document14]
 DocumentPath=schematics_library\LCR Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,24 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
-DocumentPath=schematics_library\NXP.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
+[Document15]
 DocumentPath=schematics_library\PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document16]
 DocumentPath=schematics_library\Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document17]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Capacitor_L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document18]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Capacitor_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document19]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Capacitor_N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document20]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Inductor_L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document21]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Inductor_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document22]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Inductor_N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document23]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Resistor_L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document24]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Resistor_M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document25]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Resistor_N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +531,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=HP LaserJet M3035 MFP PCL6 Class Driver
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -1380,4 +1312,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
