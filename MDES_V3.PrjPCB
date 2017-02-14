@@ -357,7 +357,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TKXSEFED
+DocumentUniqueId=JDPHQWJK
 
 [Document20]
 DocumentPath=schematics_library\IPC-7352\IPC-7352 Chip_Inductor_L.PcbLib
@@ -545,6 +545,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGLGEPKA
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MDES_V3\Design Rule Check - MDES_V3.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -1349,7 +1353,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
